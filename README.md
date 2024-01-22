@@ -10,6 +10,9 @@
 -->
 
 # Code with GitHub Copilot
+I am honored that DARTNODE is offering a free serve to sponsor my project.
+DARTNODE's official website: https://dartnode.com
+![image](https://github.com/acezero1992/skills-copilot-codespaces-vscode/assets/152970941/99b3ac67-f5cb-499f-a678-da1ded5030fc)
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
